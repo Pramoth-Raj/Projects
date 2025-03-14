@@ -56,7 +56,7 @@ The following features are extracted to assess the **publishability** of a resea
 
 A scatter plot is used to visualize these features:
 
-![Feature Scatter Plot](images\output.png)
+![Feature Scatter Plot](images/output.png)
 
 ---
 
