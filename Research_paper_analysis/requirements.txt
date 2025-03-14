@@ -1,0 +1,13 @@
+#Core requirements
+numpy
+statistics
+transformers
+collections
+sklearn
+re
+nltk
+PyPDF2
+
+#Optional requirements
+matplotlib
+pandas
