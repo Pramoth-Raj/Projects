@@ -16,10 +16,7 @@ This repository focuses on analyzing and classifying research papers based on th
 - [Performance Metrics](#performance-metrics)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -97,10 +94,6 @@ F1 Score = 1
 
 The test data consisted of 10 research papers which belonged to 5 classes. In this small dataset out model shows 90% accuracy, only misclassifying 1 of the research papers. This might because the predicted class and the actual class had very similar topics and the boundary is not clear.
 
-## Usage
-
-Replace your pdf file path and Groq API key in the main.py file before running
-
 ## Installation
 
 To set up the project, follow these steps:
@@ -114,3 +107,15 @@ cd Projects/Research_paper_analysis
 
 # Install dependencies
 pip install -r Research_paper_analysis/requirements.txt
+```
+
+## Usage
+
+Replace your pdf file path and Groq API key in the main.py file before running.
+
+## License
+
+This project is licensed under the MIT License.
+
+
+
