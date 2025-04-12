@@ -68,12 +68,6 @@ For conference classification:
 
 ## Performance Metrics
 
-
-
-_Update the table with actual performance results._
-
----
-
 ### Publishability Classifier
 
 The train data for clustering had 150 papers all of with were used to extract features to create the scatter plot.
